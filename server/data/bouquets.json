@@ -1,0 +1,42 @@
+[
+  {
+    "sentiment": "amor",
+    "name": "Ramo Pasión",
+    "flowers": ["rosas rojas"],
+    "colors": ["rojo"],
+    "description": "Expresa un amor profundo con la calidez de las rosas rojas",
+    "image": "amor.jpg"
+  },
+  {
+    "sentiment": "nostalgia",
+    "name": "Ramo Recuerdo",
+    "flowers": ["lavanda", "crisantemos"],
+    "colors": ["morado", "blanco"],
+    "description": "Evoca memorias y tiempos pasados con aromas de lavanda y crisantemos",
+    "image": "nostalgia.jpg"
+  },
+  {
+    "sentiment": "alegria",
+    "name": "Ramo Sol",
+    "flowers": ["girasoles", "margaritas"],
+    "colors": ["amarillo", "blanco"],
+    "description": "Irradia optimismo con la energía de girasoles y margaritas",
+    "image": "alegria.jpg"
+  },
+  {
+    "sentiment": "echar_de_menos",
+    "name": "Ramo Ausencia",
+    "flowers": ["lirios blancos", "violetas"],
+    "colors": ["blanco", "violeta"],
+    "description": "Una mezcla que transmite ese sentimiento de extrañar a alguien querido",
+    "image": "echar_de_menos.jpg"
+  },
+  {
+    "sentiment": "esperanza",
+    "name": "Ramo Amanecer",
+    "flowers": ["tulipanes", "narcisos"],
+    "colors": ["rosado", "amarillo"],
+    "description": "Simboliza nuevos comienzos y optimismo con tulipanes y narcisos",
+    "image": "esperanza.jpg"
+  }
+]
